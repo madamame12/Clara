@@ -2,10 +2,10 @@ class Config(object):
     LOGGER = True
 
     # Get this value from my.telegram.org/apps
-    API_ID = 6
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_ID = 27776767
+    API_HASH = "e7b0d8f7b037df9ff8b300816e90080b"
 
-    CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
+    CASH_API_KEY = "Y15QXI0LCZ4BZSYW"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
     DATABASE_URL = ""  # A sql database url from elephantsql.com
 
