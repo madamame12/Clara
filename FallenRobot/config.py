@@ -7,18 +7,18 @@ class Config(object):
 
     CASH_API_KEY = "Y15QXI0LCZ4BZSYW"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgres://ntuyxtcu:xTkRkn2dHq3x8yGQO6NVapL3yNAFow6B@floppy.db.elephantsql.com/ntuyxtcu"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://ztmhsmna:WgUKtX-9aYWK7mGVHUW7Ea0_66quCFrs@peanut.db.elephantsql.com/ztmhsmna"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = -1001976491532  # Event logs channel to note down important bot level events
+    EVENT_LOGS = -1001777053808  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://frolomose77:tt6kEAR5F8nQbJlp@elainacluster.riwve8c.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://telegra.ph/file/a933fd2ec85183af0cf07.jpg"
 
-    SUPPORT_CHAT = "Supernovaunion"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "hiraukichat"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "6051821883:AAE7a1-1VF0dRCc3jm_Wrdk4D8meEiVdlLE"  # Get bot token from @BotFather on Telegram
+    TOKEN = "6051821883:AAGfnVLAI9pdyoHJ--uTBS2Ammw_5BaGLhM"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
